@@ -12,3 +12,4 @@ console.log(9 * a) // 9 x variable a = 90
 let b = 7 * a
 
 console.log(b) // b = 7 * a (10) = 70 - note that this would come back as undefined if let a wasn't declared above
+
