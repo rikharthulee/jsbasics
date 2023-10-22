@@ -7,7 +7,7 @@
  * 
  */
 
-function troubleshooting(answer) {  
+function troubleshooting() {  
 	const a = 1
 	const b = 1
 
